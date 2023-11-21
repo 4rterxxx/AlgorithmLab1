@@ -138,7 +138,7 @@ int expSearch(int* arr, int target, int index) {
 }
 ```
 
-**Сложность:** O(N*(log(N)-log(M)+1))  
+**Сложность:** O(M*(log(N)-log(M)+1))  
 
 ___  
 # Реализация 2х генераций
